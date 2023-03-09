@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
           title: Text("Flutter"),
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.blueGrey[800],
         ),
         body: Center(
           child: Column(
